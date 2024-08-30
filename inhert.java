@@ -21,6 +21,7 @@ class checking
 {
 public static void main(String args[])
 {
+	//sg
 	hi o=new hi();
 	o.metho();	
 }
