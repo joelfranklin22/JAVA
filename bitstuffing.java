@@ -7,6 +7,7 @@ class metho
 	int count=0;
 	void input()
 	{
+		/dbdh
 		Scanner s=new Scanner(System.in);
 		System.out.println("Enter the String:");
 		s1=s.nextLine();
